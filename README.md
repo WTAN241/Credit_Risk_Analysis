@@ -4,15 +4,27 @@ In this analysis, we have applied machine learning to solve the real-world chall
 
 ## Results
 ### Naive Random Oversampling
+![naive_random_oversampling_bas](https://github.com/WTAN241/Credit_Risk_Analysis/blob/main/Resources/naive_random_oversampling_bas.PNG)
+![naive_random_oversampling_report](https://github.com/WTAN241/Credit_Risk_Analysis/blob/main/Resources/naive_random_oversampling_report.PNG)
 
 ### SMOTE Oversampling
+![smote_oversampling_bas](https://github.com/WTAN241/Credit_Risk_Analysis/blob/main/Resources/smote_oversampling_bas.PNG)
+![smote_oversampling_report](https://github.com/WTAN241/Credit_Risk_Analysis/blob/main/Resources/smote_oversampling_report.PNG)
 
 ### Undersampling
+![undersampling_bas](https://github.com/WTAN241/Credit_Risk_Analysis/blob/main/Resources/undersampling_bas.PNG)
+![undersampling_report](https://github.com/WTAN241/Credit_Risk_Analysis/blob/main/Resources/undersampling_report.PNG)
 
 ### Combination Sampling
+![combination_bas](https://github.com/WTAN241/Credit_Risk_Analysis/blob/main/Resources/combination_bas.PNG)
+![combination_report](https://github.com/WTAN241/Credit_Risk_Analysis/blob/main/Resources/combination_report.PNG)
 
 ### Balanced Random Forest Classifier
+![balanced_rf_bas](https://github.com/WTAN241/Credit_Risk_Analysis/blob/main/Resources/balanced_rf_bas.PNG)
+![balanced_rf_report](https://github.com/WTAN241/Credit_Risk_Analysis/blob/main/Resources/balanced_rf_report.PNG)
 
 ### Easy Esemble AdaBoost Classifier
+![eec_bas](https://github.com/WTAN241/Credit_Risk_Analysis/blob/main/Resources/eec_bas.PNG)
+![eec_report](https://github.com/WTAN241/Credit_Risk_Analysis/blob/main/Resources/eec_report.PNG)
 
 ## Summary
